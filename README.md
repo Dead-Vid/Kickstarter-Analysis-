@@ -14,7 +14,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-- The chart and table we created to depict the outcomes based on goals shows Louise what campaigns were successful and what campaigns failed based off how much money was asked for. It appears that campaigns that required less money tended to be more successful than those asking for much more. If you look at the chart below. 
+- The chart and table we created to depict the outcomes based on goals shows Louise what campaigns were successful and what campaigns failed based off how much money was asked for. It appears that campaigns that required less money tended to be more successful than those asking for much more. 
 
 ### Challenges and Difficulties Encountered
 
@@ -33,15 +33,15 @@ This is the function I used: ![countifs_function](https://user-images.githubuser
 ----------------------------------------------------------
 - **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
-	**1.** We know that Kickstarter campaigns launched in the summer time are more likely to succeed than those launched in the winter. Looking at the chart provided below; we can verify that in May, June, and July we can there were more attempted and more successful campaigns than during any other time of the year.
+	**1.** We know that Kickstarter campaigns launched in the summer time are more likely to succeed than those launched in the winter. Looking at the chart provided below; we can verify that in May, June, and July there were more attempted and more successful campaigns than during any other time of the year.
 	
 	![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/80081906/131268468-1f5d5605-f3f8-4708-925d-70dee5cbea10.png)
 
-	**2.** We can assume that the best time to launch a Kickstarter Campaign is during the Summer months because of the data shown. More people take time off and spend more money during the Summer; this suggests that people are more likely to seek out campaigns or come across fundraisers. With that said, the Winter months appear the worst time to launch a Kickstarter campaign.  
+	**2.** We can assume that the best time to launch a Kickstarter Campaign is during the Summer months because of the data shown. More people take time off and spend more money during the Summer; this suggests that people are more likely to seek out campaigns or come across fundraisers. With that said, the Winter months appear to be the worst time to launch a Kickstarter campaign.  
 
 - **What can you conclude about the Outcomes based on Goals?**
 
-	**1.** We can conclude that the majority of successful campaigns had asking goals of approximately $10,000 and less.  The most successful campaigns had a goal range between **$1,000 and $5,000** show in the graph below:  
+	**1.** We can conclude that the majority of successful campaigns had asking goals of approximately $10,000 and less.  The most successful campaigns had a goal range between **$1,000 and $5,000** shown in the graph below:  
 	![Outcomes_vs_Goals](https://user-images.githubusercontent.com/80081906/131269001-442049f4-9148-4706-9e2c-0dfad8625222.png)
 	Should Louise want to have more Kickstarter campaigns in the future, it is suggested that she have a goal range around $3,000-$4,000 and launched in mid to late May.
 
